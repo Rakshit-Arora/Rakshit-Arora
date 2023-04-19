@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rakshit Arora</h1>
 <h3 align="center">A passionate Software Developer Engineer.</h3>
 
+<img alt="coding" align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshit-arora&label=Profile%20views&color=0e75b6&style=flat" alt="rakshit-arora" /> </p>
 
 - 📫 How to reach me **Arakshit8502@gmail.com**
